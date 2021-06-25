@@ -1,0 +1,2 @@
+# SmartHouseFloripa
+Meu repositório padrão
